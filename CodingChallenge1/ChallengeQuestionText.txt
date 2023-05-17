@@ -1,0 +1,6 @@
+﻿Reverse the phrases.  The first input must be an integer from 1 to 100.  The following inputs must be phrases that will returned in reverse order.
+
+3
+Hello World
+Great World Hello
+Change The World

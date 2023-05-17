@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CodingChallenge2CmdLineVersion": {
+      "commandName": "Project",
+      "commandLineArgs": "11 2 2"
+    }
+  }
+}
